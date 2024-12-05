@@ -20,7 +20,8 @@ Independent developer and computer science student passionate about leveraging t
 ## Certifications
 - **Foundational C# with Microsoft**  
   *Issued by FreeCodeCamp, November 14, 2024*  
-  [Verification Link](https://www.freecodecamp.org/certification/fccbe4b8c5a-8a27-493c-a983-a09fb9b9632d/foundational-c-sharp-with-microsoft)  
+  [Verification Link](https://www.freecodecamp.org/certification/fccbe4b8c5a-8a27-493c-a983-a09fb9b9632d/foundational-c-sharp-with-microsoft)
+
   ![image](https://github.com/user-attachments/assets/455ce3b9-64ed-445e-a65b-810b08ecba96)
 
 
