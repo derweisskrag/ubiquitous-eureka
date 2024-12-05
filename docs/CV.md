@@ -8,18 +8,21 @@ Independent developer and computer science student passionate about leveraging t
 ---
 
 ## Education
-- **School 1**: Grades 1–9 | *2008–2016*
-- **School 2**: Grades 10–12 | *2016–2019*
-- **University (Incomplete)**: *2019–2021*
-- **Ongoing College**: *2023–Expected 2026*
 
----
+| *Education* | *Start* | *End* | *Location* | *School*| *Status* |
+|-------------|---------|-------|------------|---------|----------|
+| Secondary   | 09.2007 | 06.2016 | Narva-Jõesuu | School nr. 5 | Completed |
+| Upper-Secondary | 09.2016 | 06.2019 | Narva | Upper-Secondary School nr. 1 | Completed |
+| Tertiary | 09.2019 | 05.2021 | Tallinn | TalTech | Uncompleted | 
+| Undergraduate | 09.2023 | 06.2026 | Narva | Narva College of University of Tartu | In-progress | 
+
 
 ## Certifications
 - **Foundational C# with Microsoft**  
   *Issued by FreeCodeCamp, November 14, 2024*  
-  [Verification Link](https://example-verification-link.com)  
-  *(Optionally include an image or badge link)*
+  [Verification Link](https://www.freecodecamp.org/certification/fccbe4b8c5a-8a27-493c-a983-a09fb9b9632d/foundational-c-sharp-with-microsoft)  
+  ![image](https://github.com/user-attachments/assets/455ce3b9-64ed-445e-a65b-810b08ecba96)
+
 
 ---
 
