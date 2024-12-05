@@ -58,6 +58,16 @@ Independent developer and computer science student passionate about leveraging t
 
 ---
 
+## Aditional skills
+
+### Speaking Languages
+
+- **Russian**: Native
+- **English**: B2 (speaking, writing) 
+- **Estonian**: B2 (speaking, writing)
+
+> *Certified through formal examination*
+
 ## Contributions and Projects
 
 ### Open Source
