@@ -75,6 +75,16 @@ For the budget, I allocate no money, as it is free project developed by me.
 
 ## Risk Management
 
+Common risks:
+
+1. Not meeting deadline
+2. Bugs
+3. Poor design
+
+Likelihood: all high. Impact: High. 
+
+Risks resolution: For this project, not yet.
+
 ## Stakeholder analysis
 
 I seek the tech-oriented investors who are going to help me to deliver the product to people and assist them in managing their own projects;
