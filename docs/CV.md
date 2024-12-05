@@ -29,38 +29,61 @@ Independent developer and computer science student passionate about leveraging t
 
 ## Skills
 
-### Version Control
-- Proficient in GitHub: creating, editing, deleting repositories.
-- Experience with `git pull`, `git clone`, and managing milestones/issues.
-- Deployment of **Next.js** projects to **Vercel**.
-
 ### Web Development
-- Expertise: **React**, **Next.js**, **TailwindCSS**, **NextUI**, **NextAuth**.
-- Back-end experience: **Kotlin** using Controller-Service-Entity-Factory structure.
-- REST API integration: Understanding client-server communication (e.g., Next.js on port 3000, Kotlin on port 8080).
-- Flask for lightweight REST APIs and HTML template rendering.
+- Expertise in **React**, **Next.js**, **TailwindCSS**, **NextUI**, **NextAuth**.
+- Experience in full-stack integration: Developed RESTful APIs using **Flask** and **Kotlin**, adhering to Controller-Service-Entity-Factory design principles.
+- Proficient in client-server communication (e.g., Next.js at port 3000 connecting to back-end APIs on port 8080).
 
-### Desktop Development
-- **C#**: Building Windows applications with intuitive UI/UX.
+### Version Control & Deployment
+- Proficient with **GitHub**: repository creation, editing, issue tracking, and using Kanban boards for project management.
+- Deployed full-stack applications using **Vercel** for scalable production environments.
 
 ### Programming Fundamentals
-- Data Structures and Algorithms (DSA): Implemented a custom **Red-Black Tree**.
-- Typing systems: Extensive work with **Rust**, **TypeScript**, **Kotlin**, and **Python**.
-- Error handling: Knowledge from **Rust**, **Zig**, **C#**, and **Kotlin** patterns.
+- Strong in **Data Structures and Algorithms**: Implemented a custom **Red-Black Tree** in Python.
+- Error handling inspired by **Rust**: Designed Python applications to handle exceptions gracefully using structured error-return patterns and `Result`-like handling.
 
-### API Development
-- Practical: REST.
-- Theoretical: SOAP, GraphQL, gRPC, tRPC.
+### API & System Design
+- Practical experience with **REST APIs** and theoretical understanding of **GraphQL**, **SOAP**, **gRPC**, and **tRPC**.
+- Applied design patterns: Proxy, Async, Permission system, and Controller-Service-Entity-Factory.
+
+### Tools & Analysis
+- Performance monitoring: Used **OpenHardwareMonitor**, **Intel VTune**, and **Windows Task Manager** for system analysis.
 
 ### Design Patterns
 - Proxy, Async, Permission system.
 - Controller-Service-Entity-Factory approach.
 
----
+## Projects
 
-## Aditional skills
+### Personal DSA Project (2024)
+- **Situation**: Needed to deepen understanding of advanced data structures while honing project management skills.
+- **Task**: Independently designed and implemented a custom **Red-Black Tree** in Python.
+- **Action**: 
+  - Led the project using GitHub for task management and Kanban boards to track progress.
+  - Incorporated Rust-inspired error-handling strategies for safe and predictable code execution.
+  - Resolved design challenges by leveraging modern Python features like type hints and generators.
+- **Result**: Delivered a fully functional Red-Black Tree and improved understanding of efficient algorithms and error management.
 
-### Speaking Languages
+### Web Deployment with Next.js and Vercel (2024)
+- **Situation**: Wanted to deploy a scalable web application with a user-friendly interface.
+- **Task**: Developed a Next.js application with integration to a Kotlin back-end API.
+- **Action**: 
+  - Designed a RESTful API to facilitate front-end and back-end communication.
+  - Deployed the application on **Vercel**, ensuring smooth operation in production.
+  - Used **GitHub projects** to track deployment milestones and resolve deployment issues.
+- **Result**: Successfully delivered a responsive web app with a seamless deployment pipeline.
+
+### Game Performance Analysis: Wuthering Waves (2024)
+- **Situation**: Identified performance bottlenecks while gaming on a non-gaming PC.
+- **Task**: Analyze and report performance issues to the developers.
+- **Action**: 
+  - Monitored CPU, GPU, and RAM usage using **OpenHardwareMonitor** and **Intel VTune**.
+  - Identified caching inefficiencies and memory usage patterns.
+  - Submitted detailed feedback to the developers, including actionable insights on caching and asynchronous processing.
+- **Result**: Enhanced understanding of system optimization and caching mechanisms for large-scale applications.
+
+
+## Speaking Languages
 
 - **Russian**: Native
 - **English**: B2 (speaking, writing) 
