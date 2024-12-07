@@ -52,6 +52,8 @@ Within the scope, I locate:
 
 ### Schedule
 
+Changed: Dradline is 15.01.2025!!! Refine my schedule then. 
+
 ![image](https://github.com/user-attachments/assets/f670faca-c8ea-432e-af10-e04834d5afda)
 
 ## Resource Management
