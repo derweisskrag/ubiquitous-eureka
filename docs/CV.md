@@ -52,6 +52,7 @@ Independent developer and computer science student passionate about leveraging t
 ### Design Patterns
 - Proxy, Async, Permission system.
 - Controller-Service-Entity-Factory approach.
+- Applied Redux-inspired state management patterns to backend services, ensuring centralized, predictable, and scalable game state logic with immutability and unidirectional data flows.
 
 ## Projects
 
